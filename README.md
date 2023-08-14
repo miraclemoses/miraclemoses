@@ -49,7 +49,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
       <h3 align="center">Food Delivery</h3>
         <br />
         <a target="_blank" href="https://restaurant-001.netlify.app/">
-            <img src="https://github.com/miraclemoses/100devs-classes/blob/main/bootstrap-restaurant-template.jpg" width="50%" alt="Food App"/>
+            <img src="https://github.com/miraclemoses/100devs-classes/blob/main/bootstrap-restaurant-template.jpg" width="70%" alt="Food App"/>
         </a>
         <br />
         <p align="center">
@@ -57,7 +57,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
   <a href="https://github.com/miraclethomas" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
-  <a href="https://shipping-001.netlify.app/" target="_blank">
+  <a href="https://restaurant-001.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
@@ -76,7 +76,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://shipping-001.netlify.app/" target="_blank">
-    <img src="https://github.com/miraclemoses/100devs-classes/blob/main/shipping-company-website-template.jpg"/ width='50%'>
+    <img src="https://github.com/miraclemoses/100devs-classes/blob/main/shipping-company-website-template.jpg"/ width='70%'>
   </a>
       </p>
         <p><strong>HTML5, CSS3, Sass & Javascript</strong> - A web app to assist track your goods online to your location</p>
@@ -96,7 +96,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://menyene-thomas.netlify.app/" target="_blank">
-    <img src="https://github.com/miraclemoses/100devs-classes/blob/main/resume.png"/ width='50%'>
+    <img src="https://github.com/miraclemoses/100devs-classes/blob/main/resume.png"/ width='70%'>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portfolio Site including links to my projects and ways to get in contact with me.</p>
@@ -111,7 +111,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
         <p align="center">
           
   <a href="https://real-estates-001.netlify.app/" target="_blank">
-    <img src="https://github.com/miraclemoses/100devs-classes/blob/main/real-estate-html-template.jpg"/ width='50%'>
+    <img src="https://github.com/miraclemoses/100devs-classes/blob/main/real-estate-html-template.jpg"/ width='70%'>
   </a>
   <a href="https://real-estates-001.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
