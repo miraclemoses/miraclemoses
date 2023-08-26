@@ -85,7 +85,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
   
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Menyene-thomas</h3>
+      <h3 align="center">Portfolio</h3>
       <br />
         <a target="_blank" href="https://menyene-thomas.netlify.app/">
           <img src="images/gif4.gif" width="100%" alt="Portfolio"/>
