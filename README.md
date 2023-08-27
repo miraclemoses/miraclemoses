@@ -183,3 +183,7 @@ See [my website](https://menyene-thomas.netlify.app/) for more information!
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=miraclemoses&show_icons=true&locale=en" alt="menyenethomas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miraclemoses&" alt="menyenethomas" /></p>
+
+
+<p><img align="center" src="https://www.codewars.com/users/miraclemoses/badges/large" alt="codewar badge" /></p>
+
