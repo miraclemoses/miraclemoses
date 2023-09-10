@@ -13,7 +13,7 @@
 
 - 📝 I regularly write about my studies on [LinkedIn](LinkedIn)
 
-- 📫 How to reach me, direct link to my Gmail address [📥Gmail](<a href="mailto:menyenethomas1@gmail.com?"></a>)
+- 📫 How to reach me, direct link to my Gmail address <a href="mailto:menyenethomas1@gmail.com?"> [📥Gmail]</a>
 
 - 📄 Know about [my experiences](https://t.co/IkWkg2QJON)
 
