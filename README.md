@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **JavaScript, API, OOP and React**
 
-- 👨‍💻 All of my projects are available at [https://t.co/IkWkg2QJON](https://t.co/IkWkg2QJON)
+- 👨‍💻 All of my projects are available at [my website](https://t.co/IkWkg2QJON)
 
 - 📝 I regularly write about my studies on [LinkedIn](LinkedIn)
 
-- 📫 How to reach me **miraclethomas71@gmail.com**
+- 📫 How to reach me **[📥Gmai](menyenethomas1@gmail.com)**
 
-- 📄 Know about my experiences [https://t.co/IkWkg2QJON](https://t.co/IkWkg2QJON)
+- 📄 Know about my [experiences](https://t.co/IkWkg2QJON)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
