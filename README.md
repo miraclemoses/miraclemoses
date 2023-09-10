@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github.com/miraclemoses/100devs-classes/blob/d705dea2b6dc479236a8fd77546900eabd0620fe/Screenshot_20220915-211238.png" width="10%" alt="menyenethomas" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/miraclethomas" target="blank"><img src="https://img.shields.io/twitter/follow/menyene thomas?logo=twitter&style=for-the-badge" alt="menyene thomas" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Miracle15813776" target="blank"><img src="https://img.shields.io/twitter/follow/menyene thomas?logo=twitter&style=for-the-badge" alt="menyene thomas" /></a> </p>
 
 - 🔭 I’m currently working on [100hours project](Check my repo)
 
